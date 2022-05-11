@@ -20,4 +20,6 @@ int Number = Convert.ToInt32(Console.ReadLine());
 if (Number == 0) Console.WriteLine("Must be bigger than Zero");
 if (Number > 3999) Console.WriteLine("Smaller number please");
 
+//if (Number == int) Console.WriteLine(romanNumeralsDictionary);
+    
 
